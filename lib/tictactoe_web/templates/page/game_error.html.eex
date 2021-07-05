@@ -1,0 +1,2 @@
+<div>Game cannot be created!</div>
+<input type="button" onclick="window.history.back();" value="Go Back" />

@@ -1,0 +1,32 @@
+<div class="game_status">
+    Waiting for opponent!
+</div>
+<div class="player_turn" style="display:none;"></div>
+<div class="ttt_area">
+    <div class="ttt_row up">
+        <div class="ttt_box left" id="box1">
+        </div>
+        <div class="ttt_box" id="box2">
+        </div>
+        <div class="ttt_box right" id="box3">
+        </div>        
+    </div>
+    <div class="ttt_row">
+        <div class="ttt_box left" id="box4">
+        </div>
+        <div class="ttt_box" id="box5">
+        </div>
+        <div class="ttt_box right" id="box6">
+        </div>
+    </div>
+    <div class="ttt_row bottom">
+        <div class="ttt_box left" id="box7">
+        </div>
+        <div class="ttt_box" id="box8">
+        </div>
+        <div class="ttt_box right" id="box9">
+        </div>
+    </div>
+</div>
+
+<input type="hidden" id="hdnGameId" value="<%= @game_id %>">

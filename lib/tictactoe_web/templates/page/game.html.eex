@@ -1,0 +1,8 @@
+<div class="row" id="divGamesContainer">
+    <div class="no-available-game" id="divNoAvailableGame">
+        There isn't any available games to join right now!        
+    </div>
+    <div id="divGame" style="display:none;">
+    </div>
+    <input type="button" class="btn-create-game" value="Create Game" id="btnCreateGame" />
+</div>
