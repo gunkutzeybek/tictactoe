@@ -1,6 +1,6 @@
 # Tictactoe
 
-This repo makes use of [a link]https://github.com/artvinn/phoenix-tictactoe for core game functionalities.
+This repo makes use of [GitHub]https://github.com/artvinn/phoenix-tictactoe for core game functionalities.
 
 To start your Phoenix server:
 
